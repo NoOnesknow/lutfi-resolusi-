@@ -4,6 +4,7 @@ rencan konten lutfi
   *ES6
   *Framework Javascript
    ~Vue
+   ~React
 -struktur data dasar
 -php framework
   ~Laravel
