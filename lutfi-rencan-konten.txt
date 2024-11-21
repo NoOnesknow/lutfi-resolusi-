@@ -3,7 +3,9 @@ rencan konten lutfi
 -javascript
   *ES6
   *Framework Javascript
--struktur data dasar
+    ~Angular
+    ~React
 -php framework
+  ~Laravel
 -interview
 -vlog
